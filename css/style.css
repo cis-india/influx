@@ -25,9 +25,19 @@ p {
     font-family: 'poppins';
 }
 
+b {
+    font-family: 'poppins-bold';
+}
+
 /* Header */
 .banner {
+    height: 450px;
     text-align: center;
+    background-image: url(../img/banner.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .site-title {   
@@ -37,14 +47,13 @@ p {
 }
 
 .site-desc {
-    background-color: #474747;
     color: white;
     font-family: 'poppins';
     position: absolute;
-    top: 20rem;
+    top: 18rem;
 }
 .site-desc p {
-    font-size: 0.9em;
+    font-size: 1.4em;
     padding: 1rem;
 }
 /* Body */
