@@ -144,7 +144,7 @@ b {
 }
 
 .logo {
-    float: right;
+    text-align: center;
     margin-top: 2.4em;
     max-width: 240px;
     width: 100%;
