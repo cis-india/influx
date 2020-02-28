@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+<channel>
+<link>https://cis-india.github.io/influx</link>
+<language>en-us</language>
+<copyright>&#xA9;2020</copyright>
+<webMaster>example@cis-india.org (Centre for Internet and Society)</webMaster>
+<managingEditor>example@cis-india.org (Centre for Internet and Society)</managingEditor>
+<image>
+   <url>https://cis-india.github.io/influx/img/influx-white.png</url>
+   <title>Title of your logo</title>
+   <link>https://www.YourSite.com</link>
+</image>
+<itunes:owner>
+   <itunes:name>Centre for Internet and Society</itunes:name>
+   <itunes:email>example@cis-india.org</itunes:email>
+</itunes:owner>
+<itunes:category text="Policy">
+   <itunes:category text="Technology Policy" />
+</itunes:category>
+<itunes:keywords>technology, law, policy, politics</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://cis-india.github.io/influx/img/influx-white.png" />
+<googleplay:author>Centre for Internet and Society</googleplay:author>
+<googleplay:image href="https://cis-india.github.io/influx/img/influx-white.png"/>
+<atom:link href="https://cis-india.github.io/influx/feed.xml" rel="self" type="application/rss+xml" />
+<pubDate>Fri, 28 Feb 2020 09:00:00 GMT</pubDate>
+<title>In Flux: a technology policy podcast by the Centre for Internet and Society, India</title>
+<itunes:author>Centre for Internet and Society, India</itunes:author>
+<description>In Flux is podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</description>
+<itunes:summary>In Flux is podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India. </itunes:summary>
+<itunes:subtitle>Podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</itunes:subtitle>
+<lastBuildDate>Fri, 28 Feb 2020 09:00:00 GMT</lastBuildDate>
+
+<!--
+<item>
+   <title>Verbose title of the episode</title>
+   <description>Verbose description of the episode.</description>
+   <itunes:summary>Duplicate of above verbose description.</itunes:summary>
+   <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
+   <itunesu:category itunesu:code="112" />
+   <enclosure url="https://www.YourSite.com/FILE.EXT" type="audio/mpeg" length="1" />
+   <guid>https://www.YourSite.com/FILE.EXT</guid>
+   <itunes:duration>H:MM:SS</itunes:duration>
+   <pubDate>Fri, 05 Oct 2018 09:00:00 GMT</pubDate>
+</item>
+--> 
+
+</channel>
+</rss>
