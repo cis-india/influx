@@ -40,6 +40,7 @@ b {
     background-size: cover;
 }
 
+/*
 @media only screen and (max-width: 641px) {
   .banner {
     background-image: url(../img/banners/1.png);
@@ -75,7 +76,7 @@ b {
     background-image: url(../img/banners/6.png);
   }
 }
-
+*/
 
 .site-title {   
     color: white;
@@ -116,6 +117,9 @@ b {
 }
 .space4 {
     height: 4em;
+}
+.space5 {
+    height: 5em;
 }
 .space6 {
     height: 6em;
