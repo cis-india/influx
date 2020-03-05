@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
 <channel>
-<link>https://cis-india.github.io/influx</link>
+<link>https://in-flux.cis-india.org/</link>
 <language>en-us</language>
 <copyright>&#xA9;2020</copyright>
 <webMaster>example@cis-india.org (Centre for Internet and Society)</webMaster>
 <managingEditor>example@cis-india.org (Centre for Internet and Society)</managingEditor>
 <image>
-   <url>https://cis-india.github.io/influx/img/influx-white.png</url>
+   <url>https://in-flux.cis-india.org/img/meta/thumbnail.png</url>
    <title>Title of your logo</title>
    <link>https://www.YourSite.com</link>
 </image>
@@ -15,15 +15,15 @@
    <itunes:name>Centre for Internet and Society</itunes:name>
    <itunes:email>example@cis-india.org</itunes:email>
 </itunes:owner>
-<itunes:category text="Policy">
-   <itunes:category text="Technology Policy" />
+<itunes:category text="Technology">
+   <itunes:category text="Technology" />
 </itunes:category>
 <itunes:keywords>technology, law, policy, politics</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://cis-india.github.io/influx/img/influx-white.png" />
+<itunes:image href="https://in-flux.cis-india.org/img/meta/thumbnail.png" />
 <googleplay:author>Centre for Internet and Society</googleplay:author>
-<googleplay:image href="https://cis-india.github.io/influx/img/influx-white.png"/>
-<atom:link href="https://cis-india.github.io/influx/feed.xml" rel="self" type="application/rss+xml" />
+<googleplay:image href="https://in-flux.cis-india.org/img/meta/thumbnail.png"/>
+<atom:link href="http://in-flux.cis-india.org/feed.xml" rel="self" type="application/rss+xml" />
 <pubDate>Fri, 28 Feb 2020 09:00:00 GMT</pubDate>
 <title>In Flux: a technology policy podcast by the Centre for Internet and Society, India</title>
 <itunes:author>Centre for Internet and Society, India</itunes:author>
