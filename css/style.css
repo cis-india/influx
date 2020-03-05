@@ -56,6 +56,27 @@ b {
     font-size: 1.4em;
     padding: 1rem;
 }
+
+/* for platforms */
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  #platformsrow img {
+    height: auto;
+    padding: 0px;
+    max-width: 100%;
+    min-width: 90%
+  }
+
+  #platformsrow div {
+    max-width: 45%;
+  }
+
+  #platformsrow {
+    text-align: center;
+  }
+}
+
 /* Body */
 .light-gray {
     background-color: #f4f4f4;
@@ -71,8 +92,11 @@ b {
 .space3 {
     height: 3em;
 }
-.space5 {
-    height: 5em;
+.space4 {
+    height: 4em;
+}
+.space6 {
+    height: 6em;
 }
 .text h1 {
     color: #333;
