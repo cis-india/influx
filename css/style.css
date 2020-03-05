@@ -112,6 +112,12 @@ b {
     background-color: #1D1D1D;
     color: white;
 }
+.space1 {
+    height: 1em;
+}
+.space2 {
+    height: 2em;
+}
 .space3 {
     height: 3em;
 }
