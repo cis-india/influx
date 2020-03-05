@@ -126,6 +126,7 @@ b {
 }
 .media p .subtitle {
     color: #D96579;
+    color: #d24ec6;
     font-family: 'poppins';
     font-size: 0.9em;
     font-weight: 600;
@@ -146,6 +147,7 @@ b {
 }
 .footer h1 {
     color: #D96579;
+    color: #d24ec6;
     font-family: 'poppins';
     font-size: 1.2em;
     padding-top: 2.4em;
@@ -161,6 +163,7 @@ b {
     /*border-bottom: 1px dotted white;*/
     color: white;
     color: #D96579;
+    color: #d24ec6;
 }
 .footer a:hover,
 .footer a:active {
