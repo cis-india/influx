@@ -4,16 +4,16 @@
 <link>https://in-flux.cis-india.org/</link>
 <language>en-us</language>
 <copyright>&#xA9;2020</copyright>
-<webMaster>example@cis-india.org (Centre for Internet and Society)</webMaster>
-<managingEditor>example@cis-india.org (Centre for Internet and Society)</managingEditor>
+<webMaster>communications@cis-india.org (Centre for Internet and Society)</webMaster>
+<managingEditor>communications@cis-india.org (Centre for Internet and Society)</managingEditor>
 <image>
    <url>https://in-flux.cis-india.org/img/meta/thumbnail.png</url>
-   <title>Title of your logo</title>
-   <link>https://www.YourSite.com</link>
+   <title>In Flux</title>
+   <link>https://in-flux.cis-india.org/</link>
 </image>
 <itunes:owner>
    <itunes:name>Centre for Internet and Society</itunes:name>
-   <itunes:email>example@cis-india.org</itunes:email>
+   <itunes:email>communications@cis-india.org</itunes:email>
 </itunes:owner>
 <itunes:category text="Technology">
    <itunes:category text="Technology" />
@@ -27,24 +27,28 @@
 <pubDate>Fri, 28 Feb 2020 09:00:00 GMT</pubDate>
 <title>In Flux: a technology policy podcast by the Centre for Internet and Society, India</title>
 <itunes:author>Centre for Internet and Society, India</itunes:author>
-<description>In Flux is podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</description>
-<itunes:summary>In Flux is podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India. </itunes:summary>
+<description>In Flux is a podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</description>
+<itunes:summary>In Flux is a podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India. </itunes:summary>
 <itunes:subtitle>Podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</itunes:subtitle>
-<lastBuildDate>Fri, 28 Feb 2020 09:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 March 2020 09:00:00 GMT</lastBuildDate>
 
 <!--
+new episode
+-->
+
 <item>
-   <title>Verbose title of the episode</title>
-   <description>Verbose description of the episode.</description>
-   <itunes:summary>Duplicate of above verbose description.</itunes:summary>
-   <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
-   <itunesu:category itunesu:code="112" />
-   <enclosure url="https://www.YourSite.com/FILE.EXT" type="audio/mpeg" length="1" />
-   <guid>https://www.YourSite.com/FILE.EXT</guid>
-   <itunes:duration>H:MM:SS</itunes:duration>
-   <pubDate>Fri, 05 Oct 2018 09:00:00 GMT</pubDate>
+   <title>Episode 1: The Great Hack(er)</title>
+   <description>On the first episode of In Flux, we are joined by CIS veteran Karan Saini who talks us through his work as a security researcher. We then discuss the policy avenues for the government to engage more closely with security researchers to create a robust framework for disclosure and exploitation of vulnerabilities. How is a hacker different from a security researcher? What is the nature of offensive operations being undertaken by the government? How did Jeff Bezos’s phone get hacked, and should we be scared? Reading list: (1) https://cis-india.org/internet-governance/blog/improving-the-processes-for-disclosing-security-vulnerabilities-to-government-entities-in-india (2) https://www.thehindu.com/sci-tech/technology/should-the-jeff-bezos-phone-hack-be-cause-for-alarm/article30654906.ece</description>
+   <itunes:summary>On the first episode of In Flux, we are joined by CIS veteran Karan Saini who talks us through his work as a security researcher. We then discuss the policy avenues for the government to engage more closely with security researchers to create a robust framework for disclosure and exploitation of vulnerabilities. How is a hacker different from a security researcher? What is the nature of offensive operations being undertaken by the government? How did Jeff Bezos’s phone get hacked, and should we be scared? Reading list: (1) https://cis-india.org/internet-governance/blog/improving-the-processes-for-disclosing-security-vulnerabilities-to-government-entities-in-india (2) https://www.thehindu.com/sci-tech/technology/should-the-jeff-bezos-phone-hack-be-cause-for-alarm/article30654906.ece</itunes:summary>
+   <itunes:subtitle>Karan Saini talks us through his work as a security researcher. We then discuss the policy avenues for the government to engage more closely with security researchers to create a robust framework for disclosure and exploitation of vulnerabilities.</itunes:subtitle>
+   <itunes:category text="Technology">
+      <itunes:category text="Technology" />
+   </itunes:category>
+   <enclosure url="https://in-flux.cis-india.org/episodes/ep-1-the_great_hack.mp3" type="audio/mpeg" length="77818774" />
+   <guid>https://in-flux.cis-india.org/episodes/ep-1-the_great_hack.mp3</guid>
+   <itunes:duration>0:32:25</itunes:duration>
+   <pubDate>Fri, 06 March 2020 09:00:00 GMT</pubDate>
 </item>
---> 
 
 </channel>
 </rss>
