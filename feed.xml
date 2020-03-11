@@ -30,7 +30,7 @@
 <description>In Flux is a podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</description>
 <itunes:summary>In Flux is a podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India. </itunes:summary>
 <itunes:subtitle>Podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</itunes:subtitle>
-<lastBuildDate>Fri, 06 March 2020 09:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 March 2020 09:00:00 GMT</lastBuildDate>
 
 <!--
 new episode
@@ -47,7 +47,7 @@ new episode
    <enclosure url="https://in-flux.cis-india.org/episodes/ep-1-the_great_hack.mp3" type="audio/mpeg" length="77818774" />
    <guid>https://in-flux.cis-india.org/episodes/ep-1-the_great_hack.mp3</guid>
    <itunes:duration>0:32:25</itunes:duration>
-   <pubDate>Fri, 06 March 2020 09:00:00 GMT</pubDate>
+   <pubDate>Wed, 11 March 2020 09:00:00 GMT</pubDate>
 </item>
 
 </channel>
