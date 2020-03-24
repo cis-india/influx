@@ -30,11 +30,25 @@
 <description>In Flux is a podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</description>
 <itunes:summary>In Flux is a podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India. </itunes:summary>
 <itunes:subtitle>Podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</itunes:subtitle>
-<lastBuildDate>Wed, 11 March 2020 09:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 March 2020 00:00:00 GMT</lastBuildDate>
 
 <!--
 new episode
 -->
+
+<item>
+   <title>Episode 2: Radio Ga Ga</title>
+   <description>Ever wondered why you never get to listen to news or current affairs on FM channels? The government of India, for the last two decades, has persistently refused to allow community and private FM channels from broadcasting news and current affairs. In this episode of In Flux, Torsha Sarkar and Gurshabad Grover discuss their work on this news broadcast ban, and go on to speak about the constitutional ethos of media freedom and free speech, and propose an alternative regulatory framework to govern speech on FM channels. Reading list: (1) https://cis-india.org/internet-governance/files/ban-of-news-on-radio.pdf</description>
+   <itunes:summary>Ever wondered why you never get to listen to news or current affairs on FM channels? The government of India, for the last two decades, has persistently refused to allow community and private FM channels from broadcasting news and current affairs. In this episode of In Flux, Torsha Sarkar and Gurshabad Grover discuss their work on this news broadcast ban, and go on to speak about the constitutional ethos of media freedom and free speech, and propose an alternative regulatory framework to govern speech on FM channels. Reading list: (1) https://cis-india.org/internet-governance/files/ban-of-news-on-radio.pdf</itunes:summary>
+   <itunes:subtitle>Torsha Sarkar and Gurshabad Grover discuss their work on this news broadcast ban, speak about the constitutional ethos of media freedom and free speech, and propose alternative frameworks for regulation of news on FM.</itunes:subtitle>
+   <itunes:category text="Technology">
+      <itunes:category text="Technology" />
+   </itunes:category>
+   <enclosure url="https://in-flux.cis-india.org/episodes/ep-2-radio_ga_ga.mp3" type="audio/mpeg" length="15774846" />
+   <guid>https://in-flux.cis-india.org/episodes/ep-2-radio_ga_ga.mp3</guid>
+   <itunes:duration>0:15:40</itunes:duration>
+   <pubDate>Wed, 25 March 2020 00:00:00 GMT</pubDate>
+</item>
 
 <item>
    <title>Episode 1: The Great Hack(er)</title>
