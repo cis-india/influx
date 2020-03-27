@@ -11,16 +11,7 @@
   <link rel="stylesheet" type="text/css" href="css/semantic.min.css">
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico" />
-  <!-- Ideal Image Slider CSS + JS -->
-  <link rel="stylesheet" href="css/slider.css">
-  <link rel="stylesheet" href="css/slider-theme.css">
-  <script src="js/slider.js"></script>
-  <script src="js/slider-captions.js"></script>
-  <style media="screen">
-    #slider {
-      max-width: 1200px;
-      margin: 0 1em 0 1em;
-	}
+
   </style>
 </head>
 <body>
@@ -54,37 +45,37 @@
     <div class="space2"></div>
     <div class="ui container fourteen column doubling grid">
       <div class="row" id="platformsrow">
-        <div class="column">
+        <div class="column listenbutton" data-content="Listen on Spotify" data-position="bottom center" data-variation="tiny">
           <a href="https://open.spotify.com/show/1DcWQhgestq6qbVrsxJ0Iy" target="_blank">
-          <img src="img/badges-new/spotify.png" style="width: 100%" alt="Listen to the podcast on Spotify"></a>
+          <img  src="img/badges-new/spotify.png" style="width: 100%" alt="Listen to the podcast on Spotify"></a>
         </div>
-        <div class="column">
+        <div class="column listenbutton" data-content="Listen on Pocket Casts" data-position="bottom center" data-variation="tiny">
           <a href="https://pca.st/slo0qzi0" target="_blank">
           <img src="img/badges-new/pocketcasts.png" style="width: 100%" alt="Listen to the podcast on Pocket Casts"></a>
         </div>
-        <div class="column">
+        <div class="column listenbutton" data-content="Listen on Google Podcasts" data-position="bottom center" data-variation="tiny">
           <a href="https://podcasts.google.com/?feed=aHR0cDovL2luLWZsdXguY2lzLWluZGlhLm9yZy9mZWVkLnhtbA&ved=0CAAQ4aUDahcKEwiwzMfWhJLoAhUAAAAAHQAAAAAQCQ" target="_blank">
           <img src="img/badges-new/google.png" style="width: 100%" alt="Listen to the podcast on Google Podcasts"></a>
         </div>
-        <div class="column">
+        <div class="column listenbutton" data-content="Listen on Apple Podcasts" data-position="bottom center" data-variation="tiny">
           <a href="https://podcasts.apple.com/in/podcast/in-flux-technology-policy-podcast-by-centre-for-internet/id1501813395" target="_blank">
           <img src="img/badges-new/apple.png" style="width: 100%" alt="Listen to the podcast on Apple Podcasts"></a>
         </div>
-        <div class="column">
+        <div class="column listenbutton" data-content="Listen on PlayerFM" data-position="bottom center" data-variation="tiny">
           <a href="https://player.fm/series/in-flux" target="_blank">
           <img src="img/badges-new/playerfm.png" style="width: 100%" alt="Listen to the podcast on Player FM"></a>
         </div>
-        <div class="column">
+        <div class="column listenbutton" data-content="Listen using the RSS feed" data-position="bottom center" data-variation="tiny">
           <a href="https://in-flux.cis-india.org/feed.xml" target="_blank">
           <img src="img/badges-new/rss.png" style="width: 100%" alt="Listen to the podcast using our RSS feed"></a>
         </div>
-        <div class="column">
+        <div class="column listenbutton" data-content="Listen on Stitcher" data-position="bottom center" data-variation="tiny">
           <a href="https://www.stitcher.com/podcast/in-flux-a-technology-policy-podcast-by-the-centre-for-internet" target="_blank">
           <img src="img/badges-new/stitcher.png" style="width: 175%; padding-top: 5px; max-width: 120px" alt="Listen to the podcast on Stitcher"></a>
         </div>
       </div>
     </div>    
-    <div class="space3"></div>
+    <div class="space4"></div>
   </div>
 
 
@@ -184,11 +175,19 @@
         <p class="logo">
           <img src="img/cis-logo.png" alt="The Centre for Internet and Society, India" class="logo" alt="Centre for Internet and Society" /><br>
         </p>
-        <p>Visit our <a href="">website</a>, and follow us on <a href="">Twitter</a>, <a href="">Instagram</a> and <a href="">Youtube</a>.</p>
-        </p>
-        </p>
+        <p>Visit our <a href="https://cis-india.org" target="_blank">website</a>, and follow us on <a href="https://twitter.com/cis_india/" target="_blank">Twitter</a>, <a href="https://www.instagram.com/cis.india/" target="_blank">Instagram</a> and <a href="https://www.youtube.com/channel/UC0SLNXQo9XQGUE7Enujr9Ng/" target="_blank">Youtube</a>.</p>
       </div>
     </div>
   </div>
+
+  <!-- Scripts -->
+  <script src="./js/jquery-3.4.1.min.js"></script>
+  <script src="./js/semantic.min.js"></script>
+  <script>
+    $('.listenbutton')
+    .popup();
+  </script>
+
+
 </body>
 </html>
