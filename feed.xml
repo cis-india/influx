@@ -30,11 +30,25 @@
 <description>In Flux is a podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</description>
 <itunes:summary>In Flux is a podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India. </itunes:summary>
 <itunes:subtitle>Podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</itunes:subtitle>
-<lastBuildDate>Fri, 24 April 2020 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2020 00:00:00 GMT</lastBuildDate>
 
 <!--
 new episode
 -->
+
+<item>
+   <title>Episode 4: How India Censors the Web </title>
+   <description>Web censorship in India marks a fundamental threat to the freedom of speech and expression online. Despite the dubious nature of their constitutionality, various modes of censorship continue to operate across various parts of the country to limit the dissemination of content and stifle access to content that users seek. Excellent scholarship and activism has highlighted the legal and societal implications of this censorship. The technicalities, however, have largely remained unclear and opaque. Gurshabad Grover’s recent paper, written with Kushagra Singh, and Varun Bansal attempts to change this. Reading list: (1) https://cis-india.org/internet-governance/blog/how-india-censors-the-web</description>
+   <itunes:summary>Web censorship in India marks a fundamental threat to the freedom of speech and expression online. While there is excellent scholarship and activism that has highlighted the legal and societal implications of this censorship, the technicalities, have however largely remained unclear and opaque. Gurshabad Grover’s recent paper, written with Kushagra Singh and Varun Bansal attempts to change this. Reading list: (1) https://cis-india.org/internet-governance/blog/how-india-censors-the-web</itunes:summary>
+   <itunes:subtitle>Gurshabad Grover explores the technicalities and methods involved in web censorship in India.</itunes:subtitle>
+   <itunes:category text="Technology">
+      <itunes:category text="Technology" />
+   </itunes:category>
+   <enclosure url="https://in-flux.cis-india.org/episodes/ep-4-how-india-censors-the-web.mp3" type="audio/mpeg" length="30196804" />
+   <guid>https://in-flux.cis-india.org/episodes/ep-4-how-india-censors-the-web.mp3</guid>
+   <itunes:duration>0:25:02</itunes:duration>
+   <pubDate>Fri, 15 May 2020 00:00:00 GMT</pubDate>
+</item>
 
 <item>
    <title>Episode 3: Digital Swarajya </title>
