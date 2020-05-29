@@ -7,7 +7,7 @@
 <webMaster>communications@cis-india.org (Centre for Internet and Society)</webMaster>
 <managingEditor>communications@cis-india.org (Centre for Internet and Society)</managingEditor>
 <image>
-   <url>https://in-flux.cis-india.org/img/meta/thumbnail.png</url>
+   <url>https://in-flux.cis-india.org/img/meta/thumbnail2.png</url>
    <title>In Flux</title>
    <link>https://in-flux.cis-india.org/</link>
 </image>
@@ -20,9 +20,9 @@
 </itunes:category>
 <itunes:keywords>technology, law, policy, politics</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://in-flux.cis-india.org/img/meta/thumbnail.png" />
+<itunes:image href="https://in-flux.cis-india.org/img/meta/thumbnail2.png" />
 <googleplay:author>Centre for Internet and Society</googleplay:author>
-<googleplay:image href="https://in-flux.cis-india.org/img/meta/thumbnail.png"/>
+<googleplay:image href="https://in-flux.cis-india.org/img/meta/thumbnail2.png"/>
 <atom:link href="http://in-flux.cis-india.org/feed.xml" rel="self" type="application/rss+xml" />
 <pubDate>Fri, 28 Feb 2020 09:00:00 GMT</pubDate>
 <title>In Flux: a technology policy podcast by the Centre for Internet and Society, India</title>
@@ -30,11 +30,25 @@
 <description>In Flux is a podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</description>
 <itunes:summary>In Flux is a podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India. </itunes:summary>
 <itunes:subtitle>Podcast on technology, law, policy, politics and more brought to you by the Centre for Internet and Society, India.</itunes:subtitle>
-<lastBuildDate>Fri, 15 May 2020 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
 
 <!--
 new episode
 -->
+
+<item>
+   <title>Episode 5: Birds of a Rainbow Feather</title>
+   <description>With the proliferation of social media and digital platforms, user data has grown exponentially accompanied by a growing recognition of the uses of such large data sets. While demographic inference from big data sources is emerging as a significant use case of big data systems, the detection of a person’s gender and/or sexuality is often viewed as a key and foundational component, that is also uniquely problematic. This episode accompanies a survey that was undertaken to provide an approachable overview of the various methods researchers and other actors are using to infer gender and sexuality from large data sets, and explores the numerous problems and curiosities present in these methods. Reading: https://cis.pubpub.org/gender-sexuality-identification-methods-survey</description>
+   <itunes:summary>With the proliferation of social media and digital platforms, user data has grown exponentially accompanied by a growing recognition of the uses of such large data sets. While demographic inference from big data sources is emerging as a significant use case of big data systems, the detection of a person’s gender and/or sexuality is often viewed as a key and foundational component, that is also uniquely problematic. This episode accompanies a survey that was undertaken to provide an approachable overview of the various methods researchers and other actors are using to infer gender and sexuality from large data sets, and explores the numerous problems and curiosities present in these methods. Reading: https://cis.pubpub.org/gender-sexuality-identification-methods-survey</itunes:summary>
+   <itunes:subtitle>The detection of a person’s gender or sexuality has been a component of big data fueled prediction systems. Tasneem Mewa discusses her survey of studies that infer gender and sexuality from large data sets, and shares her findings on the methods used.</itunes:subtitle>
+   <itunes:category text="Technology">
+      <itunes:category text="Technology" />
+   </itunes:category>
+   <enclosure url="https://in-flux.cis-india.org/episodes/ep-5-birds_of_a_rainbow_feather.mp3" type="audio/mpeg" length="54428733" />
+   <guid>https://in-flux.cis-india.org/episodes/ep-5-birds_of_a_rainbow_feather.mp3</guid>
+   <itunes:duration>0:22:41</itunes:duration>
+   <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+</item>
 
 <item>
    <title>Episode 4: How India Censors the Web </title>
