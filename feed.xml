@@ -44,8 +44,8 @@ new episode
    <itunes:category text="Technology">
       <itunes:category text="Technology" />
    </itunes:category>
-   <enclosure url="https://in-flux.cis-india.org/episodes/ep-9_rage_against_the_machine_(?).mp3" type="audio/mpeg" length="62658919" />
-   <guid>https://in-flux.cis-india.org/episodes/ep-9_rage_against_the_machine_(?).mp3</guid>
+   <enclosure url="https://in-flux.cis-india.org/episodes/ep-9_rage_against_the_machine.mp3" type="audio/mpeg" length="62658919" />
+   <guid>https://in-flux.cis-india.org/episodes/ep-9_rage_against_the_machine.mp3</guid>
    <itunes:duration>0:40:47</itunes:duration>
    <pubDate>Fri, 21 August 2020 12:00:00 GMT</pubDate>
 </item>
