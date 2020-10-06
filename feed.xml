@@ -37,6 +37,20 @@ new episode
 -->
 
 <item>
+   <title>Episode 10: Identity by Design</title>
+   <description>With the recent widespread proliferation of Digital Identity systems across the globe, the amount of impact these systems have has only become more and more apparent. While examination of the policies governing these systems is important, it is also essential to understand how these systems are designed, and how their design frameworks can be improved. In the first part of our season 1 finale, Pooja Saxena and Saumyaa Naidu speak to Pranav M B about the design aspects of the Digital ID research project at the Centre for Internet and Society. Reading list: (1) https://digitalid.design/evaluation-framework-02.html; (2) https://digitalid.design/research-maps/uk.html; (3) https://digitalid.design/research-maps/estonia.html</description>
+   <itunes:summary>With the recent widespread proliferation of Digital Identity systems across the globe, the amount of impact these systems have has only become more and more apparent. While examination of the policies governing these systems is important, it is also essential to understand how these systems are designed, and how their design frameworks can be improved. In the first part of our season 1 finale, Pooja Saxena and Saumyaa Naidu speak to Pranav M B about the design aspects of the Digital ID research project at the Centre for Internet and Society. Reading list: (1) https://digitalid.design/evaluation-framework-02.html; (2) https://digitalid.design/research-maps/uk.html; (3) https://digitalid.design/research-maps/estonia.html</itunes:summary>
+   <itunes:subtitle>Pooja Saxena and Saumyaa Naidu talk about the key role that design plays in creating effective digital identity systems, and about the benefits of incorporating a focus on design within policy research.</itunes:subtitle>
+   <itunes:category text="Technology">
+      <itunes:category text="Technology" />
+   </itunes:category>
+   <enclosure url="https://in-flux.cis-india.org/episodes/ep-10_digital_id_design.mp3" type="audio/mpeg" length="56862627" />
+   <guid>https://in-flux.cis-india.org/episodes/ep-10_digital_id_design.mp3</guid>
+   <itunes:duration>0:37:50</itunes:duration>
+   <pubDate>Tue, 6 October 2020 05:00:00 GMT</pubDate>
+</item>
+
+<item>
    <title>Episode 9: Rage Against the Machine (?)</title>
    <description>How is the AI ecosystem evolving? How do different individuals and organisations perceive Artificial Intelligence? Does “Ethical AI” miss the hills for the trees? Do techies and lawyers talk enough? In this episode, Shweta Mohandas addresses these questions and more, while re-examining the body of work on Artificial Intelligence policy, and use cases she has built over the past three years. Reading list: (1) https://cis-india.org/internet-governance/blog/artificial-intelligence-in-india-a-compendium; (2) https://cis-india.org/internet-governance/blog/niti-aayog-discussion-paper-an-aspirational-step-towards-india2019s-ai-policy; (3) https://cis-india.org/internet-governance/blog/people-driven-and-tech-enabled-2013-how-ai-and-ml-are-changing-the-future-of-cyber-security-in-india; (4) https://cis-india.org/internet-governance/comments-to-aiforall-pdf/</description>
    <itunes:summary>How is the AI ecosystem evolving? How do different individuals and organisations perceive Artificial Intelligence? Does “Ethical AI” miss the hills for the trees? Do techies and lawyers talk enough? In this episode, Shweta Mohandas addresses these questions and more, while re-examining the body of work on Artificial Intelligence policy, and use cases she has built over the past three years. Reading list: (1) https://cis-india.org/internet-governance/blog/artificial-intelligence-in-india-a-compendium; (2) https://cis-india.org/internet-governance/blog/niti-aayog-discussion-paper-an-aspirational-step-towards-india2019s-ai-policy; (3) https://cis-india.org/internet-governance/blog/people-driven-and-tech-enabled-2013-how-ai-and-ml-are-changing-the-future-of-cyber-security-in-india; (4) https://cis-india.org/internet-governance/comments-to-aiforall-pdf</itunes:summary>
