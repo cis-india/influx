@@ -37,6 +37,20 @@ new episode
 -->
 
 <item>
+   <title>Episode 11: Digital Identity</title>
+   <description>In a continuation from the last episode, in the final episode of the 2020 season of Influx, Shruti Trikanad and Yesha Paul speak to Shweta Mohandas, and Arindrajit Basu, taking them through several law and policy questions around the conceptualisation, implementation, and impact of digital identity projects around the globe, along with the interests, actors and politics at play!</description>
+   <itunes:summary>In a continuation from the last episode, in the final episode of the 2020 season of Influx, Shruti Trikanad and Yesha Paul speak to Shweta Mohandas, and Arindrajit Basu, taking them through several law and policy questions around the conceptualisation, implementation, and impact of digital identity projects around the globe, along with the interests, actors and politics at play!</itunes:summary>
+   <itunes:subtitle>Shruti Trikanad and Yesha Paul discuss law and policy questions around the conceptualisation, implementation, and impact of digital identity projects around the globe, and what makes a good digital ID</itunes:subtitle>
+   <itunes:category text="Technology">
+      <itunes:category text="Technology" />
+   </itunes:category>
+   <enclosure url="https://in-flux.cis-india.org/episodes/ep-11_digital_identity.mp3" type="audio/mpeg" length="85142176" />
+   <guid>https://in-flux.cis-india.org/episodes/episodes/ep-11_digital_identity.mp3</guid>
+   <itunes:duration>0:55:46</itunes:duration>
+   <pubDate>Tue, 22 December 2020 05:00:00 GMT</pubDate>
+</item>   
+   
+<item>
    <title>Episode 10: Identity by Design</title>
    <description>With the recent widespread proliferation of Digital Identity systems across the globe, the amount of impact these systems have has only become more and more apparent. While examination of the policies governing these systems is important, it is also essential to understand how these systems are designed, and how their design frameworks can be improved. In the first part of our season 1 finale, Pooja Saxena and Saumyaa Naidu speak to Pranav M B about the design aspects of the Digital ID research project at the Centre for Internet and Society. Reading list: (1) https://digitalid.design/evaluation-framework-02.html; (2) https://digitalid.design/research-maps/uk.html; (3) https://digitalid.design/research-maps/estonia.html</description>
    <itunes:summary>With the recent widespread proliferation of Digital Identity systems across the globe, the amount of impact these systems have has only become more and more apparent. While examination of the policies governing these systems is important, it is also essential to understand how these systems are designed, and how their design frameworks can be improved. In the first part of our season 1 finale, Pooja Saxena and Saumyaa Naidu speak to Pranav M B about the design aspects of the Digital ID research project at the Centre for Internet and Society. Reading list: (1) https://digitalid.design/evaluation-framework-02.html; (2) https://digitalid.design/research-maps/uk.html; (3) https://digitalid.design/research-maps/estonia.html</itunes:summary>
